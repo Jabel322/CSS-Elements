@@ -5,7 +5,7 @@
    <link rel="stylesheet" type="text/css" href="1.css">
 </head>
 <body>
-   <h1>My Favourite Food (lemonade)</h1>
+   <h1>My Favorite Drink (lemonade)</h1>
    <img src="https://nitrocdn.com/CKHlAYtTsBDkXlgJQPCbgnVepBsQyGpD/assets/static/source/rev-5bd4fb0/deliciousmeetshealthy.com/wp-content/uploads/2018/07/Homemade-Lemonade-4.jpg">
    <div>
        <h3>INGREDIENTS</h3>
