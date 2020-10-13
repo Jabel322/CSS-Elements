@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+   <link rel="stylesheet" href="Style.CSS">
    <title>Food Recipe</title>
-   <link rel="stylesheet" type="text/css" href="1.css">
 </head>
 <body>
    <h1>My Favorite Drink (lemonade)</h1>
